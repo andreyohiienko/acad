@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="24" viewBox="0 0 32 24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 36px;
+        fill: #60606e;
+        font-family: Ionicons;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="design.svg" class="cls-1" x="0.501" y="-5.999"></text>
+</svg>
